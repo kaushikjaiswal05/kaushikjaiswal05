@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaushikjaiswal05
-- 👀 I’m interested in Mern Stack Web development.
+- 👀 I’m interested in Full Stack Web development.
 - 🌱 I’m currently learning Mern Stack
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me on my email, kaushikjaiswal024@gmail.com
